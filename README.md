@@ -16,6 +16,10 @@ Concepts used : CNN, VGG-19, PyTorch </br>
 
 We have taken a Content Image and a reference Style Image, the aim is to Stylize the Content Image w.r.t to the Style Image. </hr> 
 
+**Style Weight : 10,000
+Content Weight : 1
+Optimizer used : LBFGs**
+
 For an Example, Below we have taken a content-image (taj.jpg) and a style-image (wave.jpg) and thus a new output-image (stylized.jpg) is generated using both.
 <p>Content Image</p>
 <img src="/images/taj.jpg" title="Content Image" width="100" height="100"/>
