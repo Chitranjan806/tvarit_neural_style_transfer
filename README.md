@@ -22,10 +22,10 @@ Optimizer used : LBFGs**
 
 For an Example, Below we have taken a content-image (taj.jpg) and a style-image (wave.jpg) and thus a new output-image (stylized.jpg) is generated using both.
 <p>Content Image</p>
-<img src="/images/taj.jpg" title="Content Image" width="200" height="200"/>
+<img src="/images/taj.jpg" title="Content Image" width="400" height="400"/>
 
 <p>Style Image</p>
-<img src="/images/style.jpg" title="Style Image" width="200" height="200"/>
+<img src="/images/style.jpg" title="Style Image" width="400" height="400"/>
 
 <p>Output Image</p>
-<img src="/images/output.PNG" title="Style Image" width="200" height="200"/>
+<img src="/images/output.PNG" title="Style Image" width="400" height="400"/>
