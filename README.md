@@ -1,11 +1,17 @@
 # tvarit_neural_style_transfer
-The project is a part of Tvarit GmbH Virtual AI-powered Hackathon 2020, held on Saturday, 28th November 11am to 7pm IST.
-Group Name: Gallivanters
-Team: Chitranjan Gupta (Team Leader)
-Umesh Tikhe (Coder)
-Lavanya Paspuleti (Coder)
-Riya Vachhani (Planning & Co-ordination)
-Amit Purswani (R.&D. & Presentation)
+The project is a part of Tvarit GmbH Virtual AI-powered Hackathon 2020, held on Saturday, 28th November 11am to 7pm IST. <br>
+Group Name: Gallivanters <br>
+Team: Chitranjan Gupta (Team Leader) <br>
+Umesh Tikhe (Coder) <br>
+Lavanya Paspuleti (Coder) <br>
+Riya Vachhani (Planning & Co-ordination) <br>
+Amit Purswani (R.&D. & Presentation) </br>
+
+Topic: Neural Style Transfer </br>
+Underlying Concept: Convolutional Neural Networks </br>
+
+Problem Statement: Develop a codebase to perform Neural Style Transfer given a content image and a style image </br>
+
 
 
 <p>Content Image</p>
