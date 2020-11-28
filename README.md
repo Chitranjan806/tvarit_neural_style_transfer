@@ -16,7 +16,7 @@ Concepts used : CNN, VGG-19, PyTorch </br>
 
 We have taken a Content Image and a reference Style Image, the aim is to Stylize the Content Image w.r.t to the Style Image. </br> 
 
-<div style="position: inline;">
+
 <p>Content Image</p>
 <img src="/images/taj.jpg" title="Content Image" width="100" height="100"/>
 
@@ -24,6 +24,4 @@ We have taken a Content Image and a reference Style Image, the aim is to Stylize
 <img src="/images/style.jpg" title="Style Image" width="100" height="100"/>
 
 <p>Output Image</p>
-<img src="/images/output.png" title="Style Image" width="100" height="100"/>
-
-</div>
+<img src="/images/output.PNG" title="Style Image" width="100" height="100"/>
