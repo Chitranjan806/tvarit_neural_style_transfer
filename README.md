@@ -1,14 +1,19 @@
 ## tvarit_neural_style_transfer
-Topic: Neural Style Transfer </br>
 
-The project is a part of Tvarit GmbH Virtual AI-powered Hackathon, held on 28th November 2020. <br>
-Underlying Concept: Use of Convolutional Neural Networks for Neural Style Transfer</br>
+<b>Topic: Neural Style Transfer</b>
+</br>
+The project is a part of Tvarit GmbH Virtual AI-powered Hackathon, held on 28th November 2020.
+<br>
+Underlying Concept: Use of Convolutional Neural Networks for Neural Style Transfer.
+</br>
+<b>Problem Statement: Develop a codebase to perform Neural Style Transfer given a content image and a style image</b>
+</br>
 
-**Problem Statement: Develop a codebase to perform Neural Style Transfer given a content image and a style image </br>
+Concepts used : CNN, VGG-19, PyTorch
+</br>
 
-Concepts used : CNN, VGG-19, PyTorch </br>
-
-We have taken a Content Image and a reference Style Image, the aim is to Stylize the Content Image w.r.t to the Style Image. </hr> 
+We have taken a Content Image and a reference Style Image, the aim is to Stylize the Content Image w.r.t to the Style Image. 
+</hr> 
 
 #### Important parameters -
 **Style Weight : 10,000 <br>
